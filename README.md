@@ -1,6 +1,6 @@
 ### Opa! Eu sou o Caio 👋
 
-- 💻 Atualmente cursando ensino superior em Análise e Desenvolvimento de Sistemas.
+- 💻 ADS | JAVA
 
 <div align="center">
   <a href="https://github.com/ctncaio">
