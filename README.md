@@ -1,6 +1,6 @@
 ### Opa! Eu sou o Caio 👋
 
-- 💻 ADS | JAVA
+- 💻 Desenvolvedor de Software | JAVA
 
 <div align="center">
   <a href="https://github.com/ctncaio">
